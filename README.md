@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bichitramohanty
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning core java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 Reach me though linkedin  
 - 😄 Pronouns: he/him
